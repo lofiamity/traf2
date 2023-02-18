@@ -3,7 +3,7 @@ import time
 import requests
 
 # daftar link tujuan yang akan dijadwalkan
-links = ["https://www.contohlinktujuan1.com", "https://www.contohlinktujuan2.com", "https://www.contohlinktujuan3.com"]
+links = ["https://lofiamity-traf1-main-p5wzjz.streamlit.app/", "https://grabify.link/PJROML"]
 
 # fungsi untuk mengakses link secara acak
 def access_random_link():
@@ -19,4 +19,4 @@ def access_random_link():
 # menjadwalkan akses ke link setiap 5 detik
 while True:
     access_random_link()
-    time.sleep(5)
+    time.sleep(50)
