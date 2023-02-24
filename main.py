@@ -31,4 +31,4 @@ def access_random_link():
 # menjadwalkan akses ke link setiap 100 detik
 while True:
     access_random_link()
-    time.sleep(1)
+    time.sleep(100)
