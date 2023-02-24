@@ -3,7 +3,7 @@ import time
 import requests
 
 # daftar link tujuan yang akan dijadwalkan
-links = ["https://lofiamity-traf1-main-p5wzjz.streamlit.app/", "https://lofiamity-rem1bg-main-owrrs8.streamlit.app/", "https://iplogger.com/2LASw6"]
+links = ["https://lofiamity-traf1-main-p5wzjz.streamlit.app/", "https://lofiamity-rem1bg-main-owrrs8.streamlit.app/", "https://lofiamity-shortlink---private-main-8n57ns.streamlit.app/"]
 
 # daftar useragent yang akan digunakan secara acak
 user_agents = [
